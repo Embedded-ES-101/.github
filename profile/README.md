@@ -1,6 +1,8 @@
 # 🌟 TermProject: LED Mode Controller with Device Driver
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7e49f216-eeb1-46d4-80d1-d50ba632471c" />
 
+
+> 코드 보기 https://github.com/Embedded-ES-101/TermProject
 ## 🧭 프로젝트 개요
 
 4개의 스위치와 LED를 이용해 다양한 모드로 동작하는 시스템을 구현했습니다.  
